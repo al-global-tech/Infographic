@@ -69,9 +69,9 @@ export const PROVIDER_OPTIONS: Array<{
     model: 'deepseek-ai/deepseek-v4-pro',
   },
   {
-    value: 'uberllm',
-    label: 'UberLLM',
-    baseUrl: 'https://api.uberllm.dev/v1',
+    value: 'martllm',
+    label: 'MartLLM',
+    baseUrl: 'https://api.martllm.com/v1',
     model: 'deepseek/deepseek-v4-pro',
   },
 ];
